@@ -1,0 +1,309 @@
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\appOptica.exe.config
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.csproj.ResolveComReference.cache
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.exe
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.pdb
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\appOptica.exe
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\appOptica.pdb
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.csprojResolveAssemblyReference.cache
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Properties.Resources.resources
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmCita.resources
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmContenedor.resources
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmFactura.resources
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmIniciarSesion.resources
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmListarPacientes.resources
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmListarProducto.resources
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.ListarProveedor.resources
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmPago.resources
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmPrincipal.resources
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmProducto.resources
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmRegistrarPaciente.resources
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmRegistrarProveedor.resources
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmVistaTicket.resources
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.csproj.GenerateResource.Cache
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmHistoriaClinica.resources
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmReporte.resources
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\RdlCompile.cache
+C:\Users\aleja\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\RdlCompile.compiled
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\appOptica.exe.config
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.csproj.ResolveComReference.cache
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.exe
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.pdb
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\appOptica.exe
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\appOptica.pdb
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.csprojResolveAssemblyReference.cache
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Properties.Resources.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmCita.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmContenedor.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmFactura.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmHistoriaClinica.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmIniciarSesion.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmListarPacientes.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmListarProducto.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.ListarProveedor.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmPago.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmPrincipal.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmProducto.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmRegistrarPaciente.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmRegistrarProveedor.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmReporte.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.Vista.frmVistaTicket.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\appOptica.csproj.GenerateResource.Cache
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\RdlCompile.cache
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaAleja\appOptica\obj\Debug\RdlCompile.compiled
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\appOptica.exe.config
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.csproj.ResolveComReference.cache
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.exe
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.pdb
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\appOptica.exe
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\appOptica.pdb
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Properties.Resources.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmCita.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmContenedor.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmFactura.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmHistoriaClinica.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmIniciarSesion.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmListarPacientes.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmListarProducto.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.ListarProveedor.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmPrincipal.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmProducto.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmRegistrarPaciente.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmRegistrarProveedor.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmReporte.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmVistaTicket.resources
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.csproj.GenerateResource.Cache
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\RdlCompile.cache
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\RdlCompile.compiled
+H:\appOpticaMosqueteros\appOptica\bin\Debug\appOptica.exe.config
+H:\appOpticaMosqueteros\appOptica\obj\Debug\Interop.AcroPDFLib.dll
+H:\appOpticaMosqueteros\appOptica\obj\Debug\AxInterop.AcroPDFLib.dll
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.csproj.ResolveComReference.cache
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.exe
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.pdb
+H:\appOpticaMosqueteros\appOptica\bin\Debug\appOptica.exe
+H:\appOpticaMosqueteros\appOptica\bin\Debug\appOptica.pdb
+H:\appOpticaMosqueteros\appOptica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\appOpticaMosqueteros\appOptica\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\appOpticaMosqueteros\appOptica\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+H:\appOpticaMosqueteros\appOptica\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+H:\appOpticaMosqueteros\appOptica\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+H:\appOpticaMosqueteros\appOptica\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+H:\appOpticaMosqueteros\appOptica\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+H:\appOpticaMosqueteros\appOptica\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+H:\appOpticaMosqueteros\appOptica\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+H:\appOpticaMosqueteros\appOptica\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+H:\appOpticaMosqueteros\appOptica\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+H:\appOpticaMosqueteros\appOptica\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+H:\appOpticaMosqueteros\appOptica\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+H:\appOpticaMosqueteros\appOptica\bin\Debug\Interop.AcroPDFLib.dll
+H:\appOpticaMosqueteros\appOptica\bin\Debug\AxInterop.AcroPDFLib.dll
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.csprojResolveAssemblyReference.cache
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Properties.Resources.resources
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmCita.resources
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmContenedor.resources
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmFactura.resources
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmHistoriaClinica.resources
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmIniciarSesion.resources
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmListarPacientes.resources
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmListarProducto.resources
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.ListarProveedor.resources
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmPago.resources
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmPrincipal.resources
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmProducto.resources
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmRegistrarPaciente.resources
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmRegistrarProveedor.resources
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmReporte.resources
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmVistaTicket.resources
+H:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.csproj.GenerateResource.Cache
+H:\appOpticaMosqueteros\appOptica\obj\Debug\RdlCompile.cache
+H:\appOpticaMosqueteros\appOptica\obj\Debug\RdlCompile.compiled
+C:\Users\Ana Maria Tibaduiza\Documents\memoria\appOpticaMosqueteros\appOptica\bin\Debug\appOptica.exe.config
+C:\Users\Ana Maria Tibaduiza\Documents\memoria\appOpticaMosqueteros\appOptica\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Ana Maria Tibaduiza\Documents\memoria\appOpticaMosqueteros\appOptica\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Ana Maria Tibaduiza\Documents\memoria\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.csproj.ResolveComReference.cache
+C:\Users\Ana Maria Tibaduiza\Documents\memoria\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.exe
+C:\Users\Ana Maria Tibaduiza\Documents\memoria\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.pdb
+D:\appOpticaMosqueteros\appOptica\bin\Debug\appOptica.exe.config
+D:\appOpticaMosqueteros\appOptica\obj\Debug\Interop.AcroPDFLib.dll
+D:\appOpticaMosqueteros\appOptica\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.csproj.ResolveComReference.cache
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.exe
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.pdb
+D:\appOpticaMosqueteros\appOptica\bin\Debug\appOptica.exe
+D:\appOpticaMosqueteros\appOptica\bin\Debug\appOptica.pdb
+D:\appOpticaMosqueteros\appOptica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\appOpticaMosqueteros\appOptica\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\appOpticaMosqueteros\appOptica\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\appOpticaMosqueteros\appOptica\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\appOpticaMosqueteros\appOptica\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\appOpticaMosqueteros\appOptica\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\appOpticaMosqueteros\appOptica\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\appOpticaMosqueteros\appOptica\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\appOpticaMosqueteros\appOptica\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\appOpticaMosqueteros\appOptica\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\appOpticaMosqueteros\appOptica\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\appOpticaMosqueteros\appOptica\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\appOpticaMosqueteros\appOptica\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\appOpticaMosqueteros\appOptica\bin\Debug\Interop.AcroPDFLib.dll
+D:\appOpticaMosqueteros\appOptica\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.csprojResolveAssemblyReference.cache
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Properties.Resources.resources
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmCita.resources
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmContenedor.resources
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmFactura.resources
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmHistoriaClinica.resources
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmIniciarSesion.resources
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmListarPacientes.resources
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmListarProducto.resources
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.ListarProveedor.resources
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmPago.resources
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmPrincipal.resources
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmProducto.resources
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmRegistrarPaciente.resources
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmRegistrarProveedor.resources
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmReporte.resources
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmVistaTicket.resources
+D:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.csproj.GenerateResource.Cache
+D:\appOpticaMosqueteros\appOptica\obj\Debug\RdlCompile.cache
+D:\appOpticaMosqueteros\appOptica\obj\Debug\RdlCompile.compiled
+G:\appOpticaMosqueteros\appOptica\bin\Debug\appOptica.exe.config
+G:\appOpticaMosqueteros\appOptica\obj\Debug\Interop.AcroPDFLib.dll
+G:\appOpticaMosqueteros\appOptica\obj\Debug\AxInterop.AcroPDFLib.dll
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.csproj.ResolveComReference.cache
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.exe
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.pdb
+G:\appOpticaMosqueteros\appOptica\bin\Debug\appOptica.exe
+G:\appOpticaMosqueteros\appOptica\bin\Debug\appOptica.pdb
+G:\appOpticaMosqueteros\appOptica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\appOpticaMosqueteros\appOptica\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\appOpticaMosqueteros\appOptica\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\appOpticaMosqueteros\appOptica\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+G:\appOpticaMosqueteros\appOptica\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+G:\appOpticaMosqueteros\appOptica\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+G:\appOpticaMosqueteros\appOptica\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+G:\appOpticaMosqueteros\appOptica\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+G:\appOpticaMosqueteros\appOptica\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+G:\appOpticaMosqueteros\appOptica\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+G:\appOpticaMosqueteros\appOptica\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+G:\appOpticaMosqueteros\appOptica\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+G:\appOpticaMosqueteros\appOptica\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+G:\appOpticaMosqueteros\appOptica\bin\Debug\Interop.AcroPDFLib.dll
+G:\appOpticaMosqueteros\appOptica\bin\Debug\AxInterop.AcroPDFLib.dll
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.csprojResolveAssemblyReference.cache
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Properties.Resources.resources
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmCita.resources
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmContenedor.resources
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmFactura.resources
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmHistoriaClinica.resources
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmIniciarSesion.resources
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmListarPacientes.resources
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmListarProducto.resources
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.ListarProveedor.resources
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmPago.resources
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmPrincipal.resources
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmProducto.resources
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmRegistrarPaciente.resources
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmRegistrarProveedor.resources
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmReporte.resources
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmVistaTicket.resources
+G:\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.csproj.GenerateResource.Cache
+G:\appOpticaMosqueteros\appOptica\obj\Debug\RdlCompile.cache
+G:\appOpticaMosqueteros\appOptica\obj\Debug\RdlCompile.compiled
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.csprojResolveAssemblyReference.cache
+C:\Users\Ana Maria Tibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmConfiguracionIP.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\appOptica.exe.config
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.csproj.ResolveComReference.cache
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.exe
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.pdb
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\appOptica.exe
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\appOptica.pdb
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Properties.Resources.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmCita.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmConfiguracionIP.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmContenedor.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmFactura.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmHistoriaClinica.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmIniciarSesion.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmListarPacientes.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmListarProducto.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.ListarProveedor.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmPrincipal.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmProducto.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmRegistrarPaciente.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmRegistrarProveedor.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmReporte.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmVistaTicket.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.csproj.GenerateResource.Cache
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\RdlCompile.cache
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\RdlCompile.compiled
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmListarFacturas.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.Vista.frmRegistrarPago.resources
+C:\Users\AnaMariaTibaduiza\Documents\Visual Studio 2015\Projects\appOpticaMosqueteros\appOptica\obj\Debug\appOptica.csprojResolveAssemblyReference.cache

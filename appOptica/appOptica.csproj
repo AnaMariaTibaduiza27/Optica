@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{851054EA-9B86-4D29-A4C2-E3DD7B2C184B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>appOptica</RootNamespace>
+    <AssemblyName>appOptica</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\..\..\Desktop\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BDOpticaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BDOpticaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Datos\clBDSql.cs" />
+    <Compile Include="Datos\clCitaD.cs" />
+    <Compile Include="Datos\clDetallesD.cs" />
+    <Compile Include="Datos\clFacturaD.cs" />
+    <Compile Include="Datos\clHistoriaClinicaD.cs" />
+    <Compile Include="Datos\clPacienteD.cs" />
+    <Compile Include="Datos\clPagoD.cs" />
+    <Compile Include="Datos\clProductoD.cs" />
+    <Compile Include="Datos\clProveedoresD.cs" />
+    <Compile Include="Datos\clTipoCitaD.cs" />
+    <Compile Include="Datos\clTipoPacienteD.cs" />
+    <Compile Include="Datos\clTipoProductoD.cs" />
+    <Compile Include="Datos\clUsuarioD.cs" />
+    <Compile Include="Entidades\clAspectoE.cs" />
+    <Compile Include="Entidades\clBusquedaE.cs" />
+    <Compile Include="Entidades\clCitaE.cs" />
+    <Compile Include="Entidades\clDetallesE.cs" />
+    <Compile Include="Entidades\clFacturaE.cs" />
+    <Compile Include="Entidades\clHistoriaClinicaE.cs" />
+    <Compile Include="Entidades\clItemE.cs" />
+    <Compile Include="Entidades\clMedicoE.cs" />
+    <Compile Include="Entidades\clPacienteE.cs" />
+    <Compile Include="Entidades\clPagoE.cs" />
+    <Compile Include="Entidades\clProductoE.cs" />
+    <Compile Include="Entidades\clProveedoresE.cs" />
+    <Compile Include="Entidades\clTipoCitaE.cs" />
+    <Compile Include="Entidades\clTipoPacienteE.cs" />
+    <Compile Include="Entidades\clTipoProductoE.cs" />
+    <Compile Include="Entidades\clUsuarioE.cs" />
+    <Compile Include="Entidades\clValoresE.cs" />
+    <Compile Include="Logica\clCitaL.cs" />
+    <Compile Include="Logica\clCrearTicketDeVenta.cs" />
+    <Compile Include="Logica\clDetallesL.cs" />
+    <Compile Include="Logica\clFacturaL.cs" />
+    <Compile Include="Logica\clHistoriaClincaL.cs" />
+    <Compile Include="Logica\clPacienteL.cs" />
+    <Compile Include="Logica\clPagoL.cs" />
+    <Compile Include="Logica\clProductoL.cs" />
+    <Compile Include="Logica\clProveedoresL.cs" />
+    <Compile Include="Logica\clTipoCitaL.cs" />
+    <Compile Include="Logica\clTipoPacienteL.cs" />
+    <Compile Include="Logica\clTipoProductoL.cs" />
+    <Compile Include="Logica\clUsuarioL.cs" />
+    <Compile Include="Logica\clValidaciones.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vista\frmCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmCita.designer.cs">
+      <DependentUpon>frmCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmConfiguracionIP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmConfiguracionIP.Designer.cs">
+      <DependentUpon>frmConfiguracionIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmContenedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmContenedor.designer.cs">
+      <DependentUpon>frmContenedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmFactura.designer.cs">
+      <DependentUpon>frmFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmHistoriaClinica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmHistoriaClinica.designer.cs">
+      <DependentUpon>frmHistoriaClinica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmIniciarSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmIniciarSesion.Designer.cs">
+      <DependentUpon>frmIniciarSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmListarFacturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmListarFacturas.designer.cs">
+      <DependentUpon>frmListarFacturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmListarPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmListarPacientes.Designer.cs">
+      <DependentUpon>frmListarPacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmListarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmListarProducto.designer.cs">
+      <DependentUpon>frmListarProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmListarProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmListarProveedor.designer.cs">
+      <DependentUpon>frmListarProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmPrincipal.designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmProducto.designer.cs">
+      <DependentUpon>frmProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmRegistrarPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmRegistrarPaciente.Designer.cs">
+      <DependentUpon>frmRegistrarPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmRegistrarPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmRegistrarPago.designer.cs">
+      <DependentUpon>frmRegistrarPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmRegistrarProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmRegistrarProveedor.designer.cs">
+      <DependentUpon>frmRegistrarProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmReporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmReporte.Designer.cs">
+      <DependentUpon>frmReporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\frmVistaTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\frmVistaTicket.designer.cs">
+      <DependentUpon>frmVistaTicket.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Vista\frmCita.resx">
+      <DependentUpon>frmCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmConfiguracionIP.resx">
+      <DependentUpon>frmConfiguracionIP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmContenedor.resx">
+      <DependentUpon>frmContenedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmFactura.resx">
+      <DependentUpon>frmFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmHistoriaClinica.resx">
+      <DependentUpon>frmHistoriaClinica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmIniciarSesion.resx">
+      <DependentUpon>frmIniciarSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmListarFacturas.resx">
+      <DependentUpon>frmListarFacturas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmListarPacientes.resx">
+      <DependentUpon>frmListarPacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmListarProducto.resx">
+      <DependentUpon>frmListarProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmListarProveedor.resx">
+      <DependentUpon>frmListarProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmProducto.resx">
+      <DependentUpon>frmProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmRegistrarPaciente.resx">
+      <DependentUpon>frmRegistrarPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmRegistrarPago.resx">
+      <DependentUpon>frmRegistrarPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmRegistrarProveedor.resx">
+      <DependentUpon>frmRegistrarProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmReporte.resx">
+      <DependentUpon>frmReporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\frmVistaTicket.resx">
+      <DependentUpon>frmVistaTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Report1.rdlc" />
+    <None Include="BDOpticaDataSet.xsc">
+      <DependentUpon>BDOpticaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BDOpticaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BDOpticaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BDOpticaDataSet.xss">
+      <DependentUpon>BDOpticaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\appOptica.Entidades.clDetallesE.datasource" />
+    <None Include="Properties\DataSources\appOptica.Entidades.clFacturaE.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\icono-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\icono_paciente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\sn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\healthcare-it.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\216301.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\icono_ecommerce-e1421348962855-170x169.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\sale-tag-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\1046684-iconos-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\patient-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\41430832-Icono-de-la-historia-cl-nica-electr-nica-en-el-interior-de-monitor-de-la-computadora-Foto-de-archivo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\productos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Graph-Magnifier-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Captura.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\63124.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\1486564399-close_81512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Imagenes\172824.png" />
+    <Content Include="Imagenes\36769hd.jpg" />
+    <Content Include="Imagenes\3beb08d256f4e2d3fc03dad94efd5202.jpg" />
+    <Content Include="Imagenes\43547hd.jpg" />
+    <Content Include="Imagenes\538305-optica-gabel-icono-1.png" />
+    <Content Include="Imagenes\74691-icono gafas sol.png" />
+    <Content Include="Imagenes\Captura_-_copia.ico" />
+    <Content Include="Imagenes\ICONO-1-PRODUCTOS-150X150.png" />
+    <Content Include="Imagenes\iconofactura.png" />
+    <Content Include="Imagenes\iconoPago.png" />
+    <Content Include="Imagenes\iconoprov.png" />
+    <Content Include="Imagenes\iconoProveedor.png" />
+    <Content Include="Imagenes\images.png" />
+    <Content Include="Imagenes\LogoOptica.ico" />
+    <Content Include="Imagenes\pagos.png" />
+    <Content Include="Imagenes\resize-img.jpg" />
+    <Content Include="Imagenes\Sale-icon.png" />
+    <Content Include="Imagenes\thumb2-sunglasses-summer-glass-evening-relaxation.jpg" />
+    <Content Include="Imagenes\venta.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
